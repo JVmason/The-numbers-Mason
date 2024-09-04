@@ -1,3 +1,4 @@
 # The-numbers-Mason
 git init
-git add filename
+git add hello.txt
+git add .
